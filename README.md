@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kindrpp
-- 👀 I’m interested in Software Engineering.
+- 👋 Hi, I’m @kindrgs
+- 👀 I’m interested in Applications Development, Testing and Publishing.
 - 🌱 I’m currently learning crypto projects and blockchain.
 - 💞️ I’m looking to collaborate on diverse projects.
 - 📫 How to reach me LinkedIn.
